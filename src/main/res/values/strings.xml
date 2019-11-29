@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">expensecalc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="categories">
+        <item>Food</item>
+        <item>Tax</item>
+        <item>Travel</item>
+        <item>Insurance</item>
+        <item>Grocery</item>
+        <item>Medical</item>
+        <item>Education</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+    </array>
+    <string name="title_activity_newexpenses">newexpenses</string>
+</resources>
